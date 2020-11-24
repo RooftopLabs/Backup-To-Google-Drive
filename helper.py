@@ -1,4 +1,4 @@
-from apiclient.discovery import build
+from googleapiclient.discovery import build
 from oauth2client.client import SignedJwtAssertionCredentials
 from apiclient.http import MediaFileUpload
 from apiclient import errors
